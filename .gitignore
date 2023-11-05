@@ -1,0 +1,4 @@
+__pycache__
+chunk_paths.txt
+embedding_texts.txt
+embedding.npy
